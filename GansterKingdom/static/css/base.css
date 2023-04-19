@@ -1,0 +1,21 @@
+.carousel-inner > .carousel-item > img {
+    width:120px;
+    height:400px;
+  }
+  .footer{
+    clear: both;
+    height: 200px;
+    width: 900px;
+    text-align: center;
+    margin: 0px 0px 0px 0px;
+    font-family: arial, helvetica;
+    font-weight: bold ;
+    font-size: 11px;
+    background-color: black;
+    
+    }
+
+  .navbar navbar-expand-lg navbar-dark bg-dark{
+    position: sticky;
+  }
+    

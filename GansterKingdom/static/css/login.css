@@ -1,0 +1,10 @@
+.col-sm-10{
+    color: white;
+  }
+  
+  body {
+    background-image: url('../mypics/login.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+  }

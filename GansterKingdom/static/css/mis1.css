@@ -1,0 +1,16 @@
+*{
+  margin: 0%;
+  padding: 0%;
+}
+.container1{
+  color: white;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
+body {
+  background-image: url('../mypics/mis1.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
