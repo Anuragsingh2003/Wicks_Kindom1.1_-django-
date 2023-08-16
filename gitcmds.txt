@@ -1,0 +1,16 @@
+git config --global user.name xyz
+git config --global user.email xyz@gmail.com
+git init
+git add .
+git commit -m "Initial commit"
+git status
+note-if you use ssh method to push your data into git hub then, first create ssh key by some command in your git bash..
+1step- ssh-keygen -t ed25519 -C "youremail@gmail.com"
+2step-then press enter three time
+3step_result-your key has been genrated check on the above location.
+4step- go to the given ssh key path copy the ssh key pub and paste on the github on ssh key area.
+5-after doing above steps now do below steps
+
+
+git remote add origin <ssh url of github>
+git push origin master
